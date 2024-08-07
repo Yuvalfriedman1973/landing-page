@@ -24,6 +24,12 @@ header h1 {
     font-size: 2em;
 }
 
+.header-image {
+    width: 150px; /* התאמה לגודל הרצוי */
+    height: auto;
+    margin-bottom: 10px;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
