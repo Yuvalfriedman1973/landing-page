@@ -13,7 +13,7 @@ body {
 header {
     background-color: #4a90e2; /* צבע רקע לכותרת */
     width: 100%;
-    padding: 25px 0;
+    padding: 10px 0;
     text-align: center;
     color: #ffffff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
