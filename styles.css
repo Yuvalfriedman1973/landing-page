@@ -24,8 +24,7 @@ header h1 {
 }
 
 .header-image {
-    width: 150px; /* התאמה לגודל הרצוי */
-    height: 100%;
+    width: 100%; /* התאמה לגודל הרצוי */
     margin-bottom: 10px;
 }
 
