@@ -25,7 +25,7 @@ header h1 {
 
 .header-image {
     width: 100%; /* התאמה לגודל הרצוי */
-    margin-bottom: 10px;
+    margin-bottom: 1px;
 }
 
 .grid-container {
