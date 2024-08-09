@@ -15,7 +15,7 @@ header {
     padding: 100px 100;
     text-align: center;
     color: #112233;
-    display: block;
+    display: table-footer-group;
 }
 
 header h1 {
