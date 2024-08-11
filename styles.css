@@ -47,7 +47,7 @@ header h1 {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     text-align: center;
-    line-height: 10px;
+    line-height: 30px;
     transition: transform 0.3s ease;
 }
 
