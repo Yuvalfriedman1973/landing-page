@@ -36,7 +36,7 @@ header h1 {
     grid-auto-rows: 120px;
     grid-gap: 20px;
     max-width: 300px;
-    justify-cintent: space-around;
+    justify-content: space-around;
     margin: 0 auto;
     padding: 50px;
 }
