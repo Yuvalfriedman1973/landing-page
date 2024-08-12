@@ -55,11 +55,6 @@ header h1 {
     transform: translateY(-10px);
 }
 
-.icon {
-    width: 50px;
-    margin-top: 10px;
-}
-
 .image {
     background: #ffffff;
     width: 100%;
