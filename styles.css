@@ -54,6 +54,7 @@ header h1 {
     overflow: hidden;
     text-align: center;
     line-self: center;
+    height: 50%;
     transition: transform 0.3s ease;
 }
 
@@ -73,7 +74,8 @@ header h1 {
 .grid-item p {
     font-size: 1.2em;
     color: #ffffff;
-    height: 50%;
+    margin: 10px 0;
+    
 }
 
 a {
