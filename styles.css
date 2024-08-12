@@ -70,10 +70,9 @@ header h1 {
 }
 
 .grid-item p {
-    font-size: 1.2em;
+    font-size: 3em;
     margin: 10px 0;
     color: #ffffff;
-    line-self: center;
 }
 
 a {
