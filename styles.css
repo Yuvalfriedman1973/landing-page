@@ -72,7 +72,7 @@ header h1 {
 .grid-item p {
     font-size: 1.2em;
     color: #ffffff;
-    align-self: center;
+    height: 50%;
 }
 
 a {
