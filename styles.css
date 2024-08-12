@@ -9,6 +9,11 @@ body {
     height: 100%;
 }
 
+a {
+    color: #1c3a52;
+    text-align: center;
+}
+
 header {
     background-color: #ffffff; /* צבע רקע לכותרת */
     width: 50%;
