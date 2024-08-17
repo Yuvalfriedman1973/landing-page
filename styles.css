@@ -39,7 +39,7 @@ header h1 {
     display: grid;
     background: #61ad9c;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-rows: 95px;
+    grid-gap: 5px;
 }
 
 .grid-item {
