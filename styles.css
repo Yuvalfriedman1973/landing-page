@@ -57,8 +57,8 @@ header h1 {
     transition: transform 0.3s ease;
 }
 
-.grid-item:hover {
-    transform: translateY(-10px);
+.grid-item: hover {
+    transform: translate (-10px);
 }
 
 .grid-item a {
