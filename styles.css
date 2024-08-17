@@ -41,7 +41,7 @@ header h1 {
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 5px;
     padding: 10px;
-    grid-template-rows: 150px;
+    grid-template-rows: 250px;
 }
 
 .grid-item {
