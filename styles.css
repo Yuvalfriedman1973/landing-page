@@ -33,17 +33,16 @@ header h1 {
 .header-image {
     width: 50%;
     margin-bottom: 10px;
-    display: ;
 }
 
 .grid-container {
-    display: inline-grid;
+    display: grid;
     grid-template-columns: repeat(3, 100px;
     grid-rows: 120px;
     grid-gap: 20px;
     max-width: 300px;
     justify-content: space-around;
-    margin: 0 auto;
+    margin: 0;
     padding: 30px;
 }
 
