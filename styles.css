@@ -62,5 +62,6 @@ header h1 {
 .grid-item p {
     font-size: 1.2em;
     color: #ffffff;
+    padding: 10px;
     
 }
