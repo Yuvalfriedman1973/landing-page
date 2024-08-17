@@ -37,7 +37,7 @@ header h1 {
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(3, 100px;
+    grid-template-columns: 1fr 1fr 1fr
     grid-rows: 120px;
     grid-gap: 20px;
     max-width: 300px;
