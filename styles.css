@@ -59,11 +59,8 @@ header h1 {
     transform: translate (-10px);
 }
 
-.grid-item a {
-    
-}
-
 .grid-item p {
     font-size: 1.2em;
     color: #ffffff;
+    
 }
