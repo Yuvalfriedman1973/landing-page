@@ -71,8 +71,4 @@ header h1 {
     .header-image {
         width: 80%;
     }
-
-    .grid-container {
-        grid-template-columns: 1fr;
-    }
 }
