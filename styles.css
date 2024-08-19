@@ -38,6 +38,8 @@ header h1 {
     display: grid;
     background: #61ad9c;
     grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+    padding: 10px;
 }
 
 .grid-item {
