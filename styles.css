@@ -35,8 +35,8 @@ header h1 {
     display: grid;
     background: #61ad9c;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 10px;
-    padding: 10px;
+    gap: 5px;
+    padding: 5px;
     display: grid;
 }
 
