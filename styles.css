@@ -37,7 +37,7 @@ header h1 {
     grid-template-columns: 33% 33% 33%;
     gap: 5px;
     padding: 5px;
-    display: grid;
+    justify-content: center;
 }
 
 .grid-item {
