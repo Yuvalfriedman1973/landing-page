@@ -34,7 +34,7 @@ header h1 {
 .grid-container {
     display: grid;
     background: #61ad9c;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 33% 33% 33%;
     gap: 5px;
     padding: 5px;
     display: grid;
