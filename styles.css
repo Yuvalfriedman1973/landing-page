@@ -10,12 +10,10 @@ a {
     color: #1c3a52;
     text-align: left;
     width: 20%;
-    text-size: 40px;
 }
 
 header {
-    background-color: #ffffff; /* צבע רקע לכותרת */
-    width: 100%;
+    background-color: #ffffff;
     text-align: center;
     color: #1c3a52;
 }
@@ -34,7 +32,7 @@ header h1 {
 .grid-container {
     display: grid;
     background: #61ad9c;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 5px;
     padding: 5px;
     justify-content: center;
@@ -53,7 +51,7 @@ header h1 {
 }
 
 .grid-item p {
-    font-size: 20px;
+    font-size: 200px;
     color: #ffffff;
     justify-content: center;
 }
