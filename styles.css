@@ -54,7 +54,8 @@ header h1 {
 }
 
 .grid-item p {
-    font-size: 25px;
+    font-size: 15px;
     color: #ffffff;
     text-align: center;
+    padding: 2px;
 }
