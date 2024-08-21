@@ -46,6 +46,7 @@ header h1 {
     overflow: hidden;
     transition: transform 0.3s ease;
     height: 100px;
+    border-radios: 0.5px;
 }
 
 .grid-item:hover {
