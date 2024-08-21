@@ -52,7 +52,7 @@ header h1 {
 }
 
 .grid-item p {
-    font-size: 80px
+    font-size: 80px;
     color: #ffffff;
     justify-content: center;
 }
