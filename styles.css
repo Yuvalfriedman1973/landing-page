@@ -47,7 +47,7 @@ header h1 {
 }
 
 .grid-item:hover {
-    transform: translateY(-10px);
+    transform: translateY(-4px);
 }
 
 .grid-item p {
